@@ -1,2 +1,2 @@
 # fumo.tech
-My website
+Homepage made with HTML and Tailwind CSS
