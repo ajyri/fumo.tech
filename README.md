@@ -1,0 +1,2 @@
+# fumo.tech
+My website
